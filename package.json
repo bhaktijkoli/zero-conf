@@ -1,0 +1,11 @@
+{
+  "name": "zero-conf",
+  "start": "node index.js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bonjour": "^3.5.0",
+    "zeroconf": "^0.1.4"
+  }
+}
